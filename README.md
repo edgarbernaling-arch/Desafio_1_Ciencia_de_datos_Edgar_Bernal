@@ -34,12 +34,8 @@ El análisis exhaustivo de los KPIs concluye que la **Tienda 4** es el activo co
 
 **RECOMENDACIÓN FINAL:**
 
-Se recomienda la **venta de la Tienda 4**. Esta acción libera capital de un activo con el **menor rendimiento financiero** y permite al Señor Juan invertir esos fondos en su nuevo proyecto, optimizando su estrategia de inversión.
+Se recomienda **venta de la Tienda 4**. Esta acción libera capital de un activo con el **menor rendimiento financiero** y permite al Señor Juan invertir esos fondos en su nuevo proyecto, optimizando su estrategia de inversión.
 
----
 
-## 🛠️ 4. Cómo Reproducir el Análisis
-
-Para ejecutar el análisis y las transformaciones de datos (incluyendo la codificación para ML), asegúrate de tener las siguientes librerías instaladas:
 
 
